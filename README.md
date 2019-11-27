@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Webpack ProvidePluginでexport
 
-Things you may want to cover:
+config/webpack/environment.js
 
-* Ruby version
+* 自作スクリプトのimport
 
-* System dependencies
+app/javascript/packs/application.js
 
-* Configuration
+* 自作スクリプト
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+app/javascript/packs/myApp.js
